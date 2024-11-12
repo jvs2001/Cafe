@@ -7,4 +7,4 @@
 
 Site Desenvolvido em tecnologia HTML e CSS com responsividade presente em tablets e smartphone
 
-[Acesse aqui](https://guime777.github.io/Cafe-Blog/)
+[Acesse aqui](https://jvs2001.github.io/Cafe/)
