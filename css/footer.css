@@ -1,0 +1,25 @@
+.footer{
+    height: 8rem;
+    width: 80%;
+    background-color: var(--escuro);
+}
+
+/* ==================== Responsividade 400 px===================== */
+
+@media (max-width:400px) {
+    .footer{
+        width: 100%;
+    }
+    
+}
+
+/* ==================== Responsividade 1024 px===================== */
+
+@media (max-width:1024px) {
+    .footer{
+        width: 100%;
+        
+        
+    }
+    
+}
